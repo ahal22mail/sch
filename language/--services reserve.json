@@ -1,0 +1,151 @@
+{
+	"service_1": 
+	{
+		"tm":"Ýyldyrymdan goramak ulgamyny gurnamak",
+		"en":"Installation of lighting protection system.",
+		"ru":"Монтаж  системы молниезащиты.",
+		"type":"1",
+		"image":"1_1.png"
+	},
+	"service_2": 
+	{
+		"tm":"Dizel-generator gurluşyny dikmek we gurnamak",
+		"en":"Installation and installation of diesel gensets.",
+		"ru":"Установка и монтаж дизель-генераторной установки.",
+		"type":"1",
+		"image":"1_5.png"
+	},	
+	"service_3": 
+	{
+		"tm":"Yşyklandyryş ulgamlaryny gurnamak.",
+		"en":"Installation of lighting systems.",
+		"ru":"Монтаж систем освещения.",
+		"type":"1",
+		"image":"1_3.png"
+	},
+	"service_4": 
+	{
+		"tm":"Üznüksiz elektrik üpjünçilik çeşmesini gurnamak.",
+		"en":"Installation of uninterruptible power supply systems.",
+		"ru":"Монтаж источника бесперебойного питания.",
+		"type":"1",
+		"image":"1_4.png"
+	},
+	"service_5": 
+	{
+		"tm":"Güýç berýän kabelleri gurnamak we geçirmek.",
+		"en":"Installation and laying of power cables.",
+		"ru":"Монтаж и прокладка силовых кабелей.",
+		"type":"1",
+		"image":"1_2.png"
+	},	
+	"service_6": 
+	{
+		"tm":"Ähli güýç berýän ulgamlary işe girizmek",
+		"en":"Commissioning of all the above power supply systems.",
+		"ru":"Пусконаладка всех выше перечисленных силовых систем.",
+		"type":"1",
+		"image":"1_6.png"
+	},
+
+
+	"service2_1": 
+	{
+		"tm":"Ýerli hasaplaýyş toruny (LAN) gurnamak.",
+		"en":"Installation of LAN networks.",
+		"ru":"Монтаж сетей ЛВС.",
+		"type":"2",
+		"image":"2_1.png"
+	},
+	"service2_2": 
+	{
+		"tm":"Kabel torlaryny gurnamak.",
+		"en":"Installation of cable networks.",
+		"ru":"Монтаж кабельных сетей.",
+		"type":"2",
+		"image":"2_2.png"
+	},	
+	"service2_3": 
+	{
+		"tm":"Wideogözegçilik ulgamlaryny gurnama we dikme (CCTV).",
+		"en":"Installation and installation of video surveillance systems (CCTV).",
+		"ru":"Монтаж и установка систем видеонаблюдения (CCTV).",
+		"type":"2",
+		"image":"2_3.png"
+	},
+	"service2_4": 
+	{
+		"tm":"Gorag duýduryş (signalizasiýa) ulgamyny gurnamak.",
+		"en":"Installation of security alarm systems.",
+		"ru":"Монтаж системы охранной сигнализации.",
+		"type":"2",
+		"image":"2_4.png"
+	},
+	"service2_5": 
+	{
+		"tm":"Giriş gapyny öý bilen baglaýan selektory (interkomy, domofony) dikme we sazlamak.",
+		"en":"Installation and configuration of intercom systems.",
+		"ru":"Установка и настройка домофонов.",
+		"type":"2",
+		"image":"2_5.png"
+	},	
+	"service2_6": 
+	{
+		"tm":"Ýangyn duýduryşy (signalizasiýany) we ýangyny söndürijini dikmek.",
+		"en":"Installation of fire alarm and fire extinguishing systems.",
+		"ru":"Установка пожарной сигнализации и пожаротушения.",
+		"type":"2",
+		"image":"2_6.png"
+	},
+
+	"portfolio1":{
+		"type":"3",
+		"image":"1.jpg"
+	},
+	"portfolio2":{
+		"type":"3",
+		"image":"2.jpg"
+	},
+	"portfolio3":{
+		"type":"3",
+		"image":"3.jpg"
+	},
+
+	"cooperation1":
+	{
+		"type":"4",
+		"image":"1.png"
+	},
+	"cooperation2":
+	{
+		"type":"4",		
+		"image":"2.png"
+	},
+	"cooperation3":
+	{
+		"type":"4",
+		"image":"3.jpg"
+	},
+
+	"sertificate1":
+	{
+		"type":"5",
+		"image":"1.jpg"
+	},
+	"sertificate2":
+	{
+		"type":"5",		
+		"image":"2.jpg"
+	},
+	"sertificate3":
+	{
+		"type":"5",
+		"image":"3.jpg"
+	},
+	"sertificate4":
+	{
+		"type":"5",
+		"image":"4.jpg"
+	}
+	
+}

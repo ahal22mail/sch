@@ -1,0 +1,46 @@
+.pfont
+{
+    text-align: center;
+    font-size: large;
+    color: #3E5B87;
+    font-weight: 400;
+}
+
+td
+  {
+    text-align: center;
+    vertical-align: middle;
+  }
+
+th
+  {
+    text-align: center;
+    vertical-align: middle;
+    color: #3E5B87;
+    font-weight: 400;
+  }
+
+.btn-eplan
+{
+    color: #5D79A5;
+    background-color: white;
+    border-width: 1px;
+    border-color: #5D79A5;
+}
+
+.btn-eplan:hover
+{
+    color: white;
+    background-color: #3E5B87;
+}
+
+.btn-eplan:focus
+{
+    color: white;
+    font-weight: 600;
+    background-color: #3E5B87;
+}
+option
+{
+    color:#334A6F;
+}
